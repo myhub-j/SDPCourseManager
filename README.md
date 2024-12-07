@@ -4,9 +4,9 @@ Online course selection and scheduling Management system for students.
 
 The Student Course Management System is a comprehensive web application designed to facilitate course selection,
 registration, and scheduling for students while enabling administrators to manage courses and student data effectively. 
-This project is built using Java Spring Boot, JSP, and Hibernate for a seamless backend and frontend integration. The 
-project interests align with the UN sustainable developement goal no.4, Ensuring inclusive and equitable quality education
-and to promote lifelong learning opportunities for all.
+This project is built using Java Spring Boot, JSP, and Hibernate for a seamless backend and frontend integration.
+#### The project interests align with the UN sustainable developement goal no.4, Ensuring inclusive and equitable quality education
+#### and to promote lifelong learning opportunities for all.
 
 ## Technologies Used
 Frontend: JSP, HTML, CSS, Bootstrap
